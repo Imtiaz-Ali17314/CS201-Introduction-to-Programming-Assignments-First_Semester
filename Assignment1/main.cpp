@@ -10,7 +10,7 @@ int main() {
     int id = 260200954;
 
     cout << "Name: " << name << endl;
-    cout << "Student ID: BS" << id << endl;
+    cout << "Student ID: BC" << id << endl;
 
     int d1 = (id / 100000000) % 10;
     int d2 = (id / 1000000) % 10;
